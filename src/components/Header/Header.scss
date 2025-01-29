@@ -1,0 +1,39 @@
+.navbar{
+    background-color: #e3f2fd;
+    color: white;
+    padding: 0.5rem;
+    margin-bottom: 3rem;
+    box-shadow: 10px 10px 50px gray;
+    .fa-shopping-cart{
+      font-size: 2rem;
+      color: #0d6efd;
+    }
+    .options{
+      display: flex;
+      justify-content: space-between;
+      .count{
+        background-color: #0d6efd;
+        color: white;
+        border-radius: 50%;
+        padding: 0.2rem 0.5rem;
+        font-size: 0.8rem;
+        position: absolute;
+        top: 0.1rem;
+        right: 0.2rem;
+      }
+    }
+  }
+  .title{
+    font-size: 2.2rem;
+    font-family: cursive;
+    line-height: 1.1;
+  }
+  .sub-heading{
+    font-size: 1rem;
+    color: #0d6efd;
+    margin-left: 0.5rem;
+  }
+.logout {
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+}
