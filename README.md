@@ -1,10 +1,12 @@
 # Quints-bookstore-ui
 This is the online bookstore application 'Quints' frontend source
 # React + Vite
-
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+#Steps to Execute
+- checkout the git repository
+- run 'npm i' from the root directory (node v20.16.0 and npm 10.8.1 has been considered)
+- run 'npm run tests' to execute the test cases
+- run 'npm run dev' to launch the application in 'http:localhost:5173'
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
